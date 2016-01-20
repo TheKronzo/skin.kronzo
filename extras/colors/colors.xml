@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <colors>
-    <palette name="material-design">
+	<!--  from Kover/pellucid -->
+		<palette name="material-design">
         <color name="red_300">ffe57373</color>
         <color name="red_400">ffef5350</color>
         <color name="red_500">fff44336</color>

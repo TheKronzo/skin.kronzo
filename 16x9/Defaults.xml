@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Foundation -->
 <includes>
+		<!-- CONSTANTS -->
+	<constant name="FanartCrossfadeTime">500</constant>
+	<constant name="IconCrossfadeTime">400</constant>
 
 	<default type="label">
 		<posx>0</posx>

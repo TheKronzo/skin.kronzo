@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Foundation -->
 <includes>
-
+	
+			<!--  Mine -->
+	<include file="Variables.xml" />
+			<!--  Mine -->
 	<include file="Defaults.xml" />
 	<include file="CommonViews.xml" />
 	<include file="View_50_List.xml" />
+	<include file="Variables.xml" />
 
 	<include name="HiddenButton">
 		<posx>-20</posx>
