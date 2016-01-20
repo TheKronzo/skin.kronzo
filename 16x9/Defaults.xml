@@ -33,13 +33,6 @@
 	</default>
 
 	<default type="image">
-		<posx>0</posx>
-		<posy>0</posy>
-		<width>-</width>
-		<height>-</height>
-		<align>center</align>
-		<aligny>center</aligny>
-		<texture>-</texture>
 	</default>
 
 	<default type="button">
