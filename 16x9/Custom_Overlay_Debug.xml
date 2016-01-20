@@ -15,7 +15,7 @@
 		
 		<control type="image">
 			<include>FullscreenDimensions</include>
-			<texture>special://skin/extras/backgrounds/debuggridalign60pct.png</texture>
+			<texture>special://skin/extras/backgrounds/debuggridalign.png</texture>
 			<colordiffuse>88ffffff</colordiffuse>
 			<visible>Skin.HasSetting(DebugGrid)</visible>
 		</control>
